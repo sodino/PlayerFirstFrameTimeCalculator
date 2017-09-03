@@ -1,0 +1,837 @@
+09-02 18:03:51.071 25892 25892 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 18:03:51.121 25892 26394 I System.out: open:http://125.78.252.106/upic/2017/09/02/16/BMjAxNzA5MDIxNjQxMDNfMTAzOTA2MDM2XzMxMjg5OTc3NTFfMl8z_hd.mp4?tag=1-1504346617-h-0-gginnqt9nw-4b0fffbff3b00f73
+09-02 18:03:51.322 25892 31734 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:56791/proxy?request_id=ab730b11a729c45a_3128997751.mp4':
+09-02 18:03:51.678 25892 31754 D KSYMediaPlayer: Video: first frame decoded
+09-02 18:04:07.591 25892 25892 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 18:04:07.609 25892 26484 I System.out: open:http://125.78.252.106/upic/2017/09/02/10/BMjAxNzA5MDIxMDEzNDRfMTEwODE0MzM0XzMxMjUyNjg3NzRfMl8z_hd.mp4?tag=1-1504346617-h-0-kmjeqdi9cs-f9e0c84d291a35f0
+09-02 18:04:07.791 25892 31834 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:56791/proxy?request_id=51f0df8b1a087eab_3125268774.mp4':
+09-02 18:04:08.169 25892 31853 D KSYMediaPlayer: Video: first frame decoded
+09-02 18:04:12.289 25892 25892 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 18:04:12.305 25892 26166 I System.out: open:http://125.78.242.65/upic/2017/09/01/10/BMjAxNzA5MDExMDMzMTRfNjM2MDY4MDYxXzMxMTU5MzgzNDNfMl8z_hd.mp4?tag=1-1504346617-h-0-5jpomkoxiv-bd65c0321a88a4ae
+09-02 18:04:12.481 25892 31887 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:56791/proxy?request_id=5f94b57f217c0ad2_3115938343.mp4':
+09-02 18:04:12.842 25892 31906 D KSYMediaPlayer: Video: first frame decoded
+09-02 18:04:16.868 25892 25892 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 18:04:16.884 25892 26394 I System.out: open:http://27.155.69.82/upic/2017/09/01/11/BMjAxNzA5MDExMTQ5MzVfMjM5MzY2MzBfMzExNjQ5Njk4OV8xXzM=_hd.mp4?tag=1-1504346617-h-0-j7qvn3r2tp-016dfa824aaea7a2
+09-02 18:04:17.105 25892 31943 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:56791/proxy?request_id=a4ddbd7021e28e55_3116496989.mp4':
+09-02 18:04:17.480 25892 31962 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:54:21.528 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:54:21.543 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/01/15/BMjAxNzA5MDExNTI5NTBfNDkzMjg4MjAxXzMxMTgzNzUyODdfMV8z_hd.mp4?tag=1-1504367553-h-0-fxnnifwbdt-b2f9972f575c63a0
+09-02 23:54:21.725 14683 15302 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=64a2af53b63f4001_3118375287.mp4':
+09-02 23:54:22.172 14683 15323 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:27.402 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:27.422 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/02/22/BMjAxNzA5MDIyMjAwMjNfMTExNDAzMjgyXzMxMzI2OTY1ODRfMl8z.mp4?tag=1-1504367553-h-0-2mxihtogyj-b6ac758a9782f585
+09-02 23:55:27.797 14683 15389 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b3aee7384e155e18_3132696584.mp4':
+09-02 23:55:28.015 14683 15409 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:36.884 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:36.901 14683 15227 I System.out: open:http://121.207.229.253/upic/2017/09/02/11/BMjAxNzA5MDIxMTA4NTlfNzQzNDMwOTJfMzEyNTc1OTYyMV8yXzM=_hd.mp4?tag=1-1504367553-h-0-oorbyannzd-c77986baa89b07a0
+09-02 23:55:37.202 14683 15431 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b4be314bed4eff4c_3125759621.mp4':
+09-02 23:55:37.430 14683 15450 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:43.812 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:43.830 14683 15097 I System.out: open:http://125.78.246.130/upic/2017/09/02/14/BMjAxNzA5MDIxNDQ1MzlfNDMwODEwOTE4XzMxMjc4NTY4NDZfMl8z_hd.mp4?tag=1-1504367553-h-0-tg9rgstqhn-60969041035b423b
+09-02 23:55:44.046 14683 15471 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f715c232b4cf8fde_3127856846.mp4':
+09-02 23:55:44.444 14683 15490 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:46.807 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:46.823 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/01/20/BMjAxNzA5MDEyMDA4MTlfMTQyNzM2MDIzXzMxMjEwODg3ODNfMV8z_hd.mp4?tag=1-1504367553-h-0-ggw8c6n8ba-3286d85763d1507f
+09-02 23:55:46.988 14683 15513 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ce92306ee0a822d4_3121088783.mp4':
+09-02 23:55:47.364 14683 15532 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:49.770 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:49.786 14683 15246 I System.out: open:http://125.78.246.130/upic/2017/09/01/10/BMjAxNzA5MDExMDA2MDNfMjY4MzE3MDU2XzMxMTU3NTI1MjRfMl8z_hd.mp4?tag=1-1504367553-h-0-cgbx8g4iht-e71e910b352b382b
+09-02 23:55:49.974 14683 15552 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7f9c7763085b6b56_3115752524.mp4':
+09-02 23:55:51.247 14683 15571 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:53.212 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:53.231 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/01/12/BMjAxNzA5MDExMjI4NDJfMjE3ODE2MzhfMzExNjgwNjE4NV8xXzM=_hd.mp4?tag=1-1504367553-h-0-jfomolinjh-de4cc6a93f31178e
+09-02 23:55:53.427 14683 15589 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=849df15f51f20f76_3116806185.mp4':
+09-02 23:55:53.789 14683 15608 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:55:57.770 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:55:57.789 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/02/09/BMjAxNzA5MDIwOTMyMDhfNTI5OTUxNzg5XzMxMjQ5NDcxNjhfMl8z_hd.mp4?tag=1-1504367553-h-0-z3rj7tr7xy-dfe6f117bfc98693
+09-02 23:55:58.001 14683 15631 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=489b897865e164d2_3124947168.mp4':
+09-02 23:55:58.394 14683 15650 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:56:01.188 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:56:01.204 14683 15246 I System.out: open:http://121.207.229.253/upic/2017/09/01/18/BMjAxNzA5MDExODEwMjNfNDcwOTg2Njg3XzMxMTk4MDQzNDdfMl8z_hd.mp4?tag=1-1504367553-h-0-xsmffkaqh6-cdef4fe67c50b73e
+09-02 23:56:01.408 14683 15668 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=9b5f886550782ff9_3119804347.mp4':
+09-02 23:56:01.807 14683 15687 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:56:04.899 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:56:04.916 14683 15097 I System.out: open:http://121.207.229.253/upic/2017/09/01/17/BMjAxNzA5MDExNzMwMzdfMzcyNjQ0MjgyXzMxMTk0MDg1MThfMV8z_hd.mp4?tag=1-1504367553-h-0-vxrochapwf-29e2867a18f72b58
+09-02 23:56:05.080 14683 15707 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2fc286cbdd7f94e6_3119408518.mp4':
+09-02 23:56:05.541 14683 15726 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:56:07.974 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:56:07.991 14683 15227 I System.out: open:http://121.207.229.253/upic/2017/09/01/17/BMjAxNzA5MDExNzE2MjRfNTMzNjg1NTc4XzMxMTkyNzU4MjBfMV8z_hd.mp4?tag=1-1504367553-h-0-sanzh8fnfx-33fa537f7da6ce10
+09-02 23:56:08.179 14683 15747 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=408b7af4c2ca9d9a_3119275820.mp4':
+09-02 23:56:08.535 14683 15767 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:56:13.031 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:56:13.048 14683 15246 I System.out: open:http://121.207.229.253/upic/2017/09/02/17/BMjAxNzA5MDIxNzQ4NDNfNTk0Njc0MjcyXzMxMjk3MjEyNDdfMl8z.mp4?tag=1-1504367559-h-0-tzplaswqll-7f6c807c8000a208
+09-02 23:56:13.208 14683 15797 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2554b8e88cdc35ab_3129721247.mp4':
+09-02 23:56:13.588 14683 15816 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:56:15.618 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:56:15.634 14683 15097 I System.out: open:http://121.207.229.253/upic/2017/09/02/15/BMjAxNzA5MDIxNTI5NThfNDgwNzYxNV8zMTI4Mjg2MzQ5XzFfMw==_hd.mp4?tag=1-1504367559-h-0-y9fzo4mt1g-b6893c43b163d4ad
+09-02 23:56:15.854 14683 15836 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=56a9c0763a176f3_3128286349.mp4':
+09-02 23:56:16.182 14683 15856 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:56:19.088 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:56:19.104 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/02/14/BMjAxNzA5MDIxNDU0MTBfMTI1NTMxNjMxXzMxMjc5MzkzODdfMl8z_hd.mp4?tag=1-1504367559-h-0-ozuzt24i1z-c845464aed6b100b
+09-02 23:56:19.263 14683 15874 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5315b63a6d96cb25_3127939387.mp4':
+09-02 23:56:19.602 14683 15893 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:23.531 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:23.549 14683 15227 I System.out: open:http://125.78.242.66/upic/2017/09/01/17/BMjAxNzA5MDExNzU3MjZfMzg1MjYyNzU5XzMxMTk2NzA5MjlfMV8z_hd.mp4?tag=1-1504367765-h-0-ucrafia2qa-45aa2aa2dc3a7cd3
+09-02 23:57:23.748 14683 16097 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=affd6d3709561493_3119670929.mp4':
+09-02 23:57:24.059 14683 16116 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:25.920 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:25.936 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/17/BMjAxNzA5MDExNzQ2MDZfOTY3NTQyMDZfMzExOTU1ODU5OF8xXzM=_hd.mp4?tag=1-1504367765-h-0-mjgxf21by1-813cc81c19906b65
+09-02 23:57:26.114 14683 16142 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4062fa097f607ac4_3119558598.mp4':
+09-02 23:57:26.451 14683 16161 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:30.782 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:30.800 14683 15097 I System.out: open:http://125.78.242.66/upic/2017/09/01/17/BMjAxNzA5MDExNzQ0MzBfNDg1Mzg3ODU4XzMxMTk1NDI4MzRfMV8z_hd.mp4?tag=1-1504367765-h-0-ofhxsarfes-f8703d234853cb3c
+09-02 23:57:30.984 14683 16192 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a51af12511202a3b_3119542834.mp4':
+09-02 23:57:31.321 14683 16211 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:35.105 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:35.128 14683 15227 I System.out: open:http://27.155.69.122/upic/2017/09/02/08/BMjAxNzA5MDIwODMyMDVfMjQ3NzY3NzQwXzMxMjQ1NjE5NDdfMV8z_hd.mp4?tag=1-1504367765-h-0-ylausyfffk-17f844ed2a346f0c
+09-02 23:57:35.305 14683 16244 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ffe6cd8575e649a6_3124561947.mp4':
+09-02 23:57:35.606 14683 16263 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:37.563 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:37.579 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/16/BMjAxNzA5MDExNjAyNDBfMTc5MTk4MDM0XzMxMTg2NDEyNTZfMV8z_hd.mp4?tag=1-1504367765-h-0-msqkn618w1-6d45221fb611004f
+09-02 23:57:37.739 14683 16295 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e5c7459229c5b068_3118641256.mp4':
+09-02 23:57:38.053 14683 16314 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:44.193 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:44.210 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/01/18/BMjAxNzA5MDExODA3MzZfODM4MjY2MzdfMzExOTc3NTY5NV8xXzM=_hd.mp4?tag=1-1504367765-h-0-vmgwqyaao5-35ceff59d450eb6e
+09-02 23:57:44.380 14683 16353 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=9a7c9986e2e77649_3119775695.mp4':
+09-02 23:57:44.684 14683 16372 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:48.213 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:48.230 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/06/BMjAxNzA5MDEwNjM1MTRfNDMxMTY5ODIxXzMxMTQ4MDg0NjZfMl8z_b.mp4?tag=1-1504367765-h-0-ufcep4mvze-bc01460656cbf41f
+09-02 23:57:48.400 14683 16393 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=705a6f9a98c69ec2_3114808466.mp4':
+09-02 23:57:48.678 14683 16412 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:52.424 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:52.442 14683 15246 I System.out: open:http://27.155.69.122/upic/2017/09/02/07/BMjAxNzA5MDIwNzEwMzFfMTg5OTExMzI0XzMxMjQyMDU0MTRfMl8z.mp4?tag=1-1504367765-h-0-qvhl8ozau2-c5c79d181bb58b98
+09-02 23:57:52.617 14683 16433 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=1bed125fef2069b1_3124205414.mp4':
+09-02 23:57:52.878 14683 16452 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:57:55.430 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:57:55.447 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/01/17/BMjAxNzA5MDExNzE1NTZfOTI0NzUzMF8zMTE5MjcyMzk2XzFfMw==_hd.mp4?tag=1-1504367765-h-0-uaffpue2ft-b417ef973ab8b524
+09-02 23:57:55.607 14683 16470 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4fe6d2ebeaae83a9_3119272396.mp4':
+09-02 23:57:55.898 14683 16489 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:58:00.461 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:58:00.478 14683 15227 I System.out: open:http://27.155.69.122/upic/2017/09/02/10/BMjAxNzA5MDIxMDM0NTdfNDQ3NjM2MTg0XzMxMjU0NTQwMjBfMl8z_hd.mp4?tag=1-1504367765-h-0-ke78dfo5pd-687901af5cae4f1d
+09-02 23:58:00.658 14683 16512 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=1e9d676cf30c10d9_3125454020.mp4':
+09-02 23:58:00.991 14683 16531 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:58:41.308 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:58:41.325 14683 15246 I System.out: open:http://125.78.242.66/upic/2017/09/01/21/BMjAxNzA5MDEyMTAyMzFfMjQxNV8zMTIxNzE3OTQwXzJfMw==_hd.mp4?tag=1-1504367832-h-0-rldih0ymxf-bbc8e4a0a30eb73c
+09-02 23:58:41.504 14683 16569 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3c17f8db9f96e635_3121717940.mp4':
+09-02 23:58:41.804 14683 16588 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:58:45.886 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:58:45.902 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/01/17/BMjAxNzA5MDExNzE4MzJfMjEzMjQzNzlfMzExOTI5NDM4Ml8yXzM=.mp4?tag=1-1504367832-h-0-2lafp3g4p7-28a38217f5556fa5
+09-02 23:58:46.053 14683 16614 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=eb88757b794292eb_3119294382.mp4':
+09-02 23:58:46.338 14683 16635 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:58:53.718 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:58:53.734 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/08/BMjAxNzA5MDEwODQ5NTFfOTQzMTY5NjhfMzExNTMxMjA1NV8yXzM=_hd.mp4?tag=1-1504367911-h-0-h5oolu5s4l-c138f27ee63229a9
+09-02 23:58:53.908 14683 16658 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d93647909cc7e974_3115312055.mp4':
+09-02 23:58:54.250 14683 16677 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:58:56.272 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:58:56.288 14683 15246 I System.out: open:http://125.78.242.66/upic/2017/09/02/06/BMjAxNzA5MDIwNjU3MTFfMTQ1MTY3Nzg4XzMxMjQxNjUyNDNfMl8z_hd.mp4?tag=1-1504367911-h-0-bbn1pg7ulk-aafa270d6e728ee6
+09-02 23:58:56.481 14683 16700 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ea992150328b0881_3124165243.mp4':
+09-02 23:58:56.811 14683 16719 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:58:59.321 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:58:59.338 14683 15097 I System.out: open:http://125.78.242.66/upic/2017/09/01/06/BMjAxNzA5MDEwNjA0NTdfODQ0MDg2NTVfMzExNDc1MzUyNl8yXzM=_hd.mp4?tag=1-1504367911-h-0-elzvgnoiea-0edfc3316d410d95
+09-02 23:58:59.536 14683 16738 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b90f4ff2665a0e93_3114753526.mp4':
+09-02 23:58:59.905 14683 16757 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:04.815 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:04.832 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/16/BMjAxNzA5MDExNjI4MTNfMTYzMDUxMDc1XzMxMTg4NTExNjZfMl8z_hd.mp4?tag=1-1504367911-h-0-4l7tfkpilb-981d9e1252448899
+09-02 23:59:05.023 14683 16777 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3382a12bc25bb2aa_3118851166.mp4':
+09-02 23:59:05.438 14683 16798 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:09.523 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:09.539 14683 15246 I System.out: open:http://125.78.242.66/upic/2017/09/01/18/BMjAxNzA5MDExODM3MzJfMjE5NjY3MjM5XzMxMjAwODc4MzZfMV8z_hd.mp4?tag=1-1504367911-h-0-nu4mbibyhv-dadc17cc9629bb4f
+09-02 23:59:09.706 14683 16820 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3f481a7fb30d69ec_3120087836.mp4':
+09-02 23:59:10.018 14683 16839 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:14.285 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:14.303 14683 15097 I System.out: open:http://27.155.69.122/upic/2017/09/01/09/BMjAxNzA5MDEwOTE5MjJfMTMwNzA1MjQ1XzMxMTU0NzMwODhfMV8z_hd.mp4?tag=1-1504367911-h-0-bopchcg6iq-1ed2cc06fda2f71c
+09-02 23:59:14.496 14683 16860 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f785be0fc13d4d98_3115473088.mp4':
+09-02 23:59:14.837 14683 16880 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:18.119 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:18.135 14683 15227 I System.out: open:http://125.78.242.66/upic/2017/09/01/09/BMjAxNzA5MDEwOTQ1MjZfMjM1MTgyMDc3XzMxMTU2MjU3MzZfMl8z_b.mp4?tag=1-1504367911-h-0-pun85zbspk-8e689ea5f97d7905
+09-02 23:59:18.334 14683 16901 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=6bce4016eb6ced0b_3115625736.mp4':
+09-02 23:59:18.502 14683 16920 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:21.320 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:21.340 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/08/BMjAxNzA5MDIwODAxNDZfMzcyNTYwNDgyXzMxMjQ0MDczNTBfMV8z_hd.mp4?tag=1-1504367911-h-0-xjj1ridmfe-2a348178d961c282
+09-02 23:59:21.505 14683 16938 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=482e98d39280013d_3124407350.mp4':
+09-02 23:59:21.814 14683 16957 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:24.830 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:24.847 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/02/14/BMjAxNzA5MDIxNDQ2MjNfMTQyMDA4OTZfMzEyNzg2MzU2MF8yXzM=_b.mp4?tag=1-1504367911-h-0-r6macoguaz-3e19d42d2997304a
+09-02 23:59:25.112 14683 16975 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d0540fbb551913d5_3127863560.mp4':
+09-02 23:59:25.409 14683 16995 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:29.945 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:29.962 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/02/17/BMjAxNzA5MDIxNzMxNDJfMTE0NDM1Njc2XzMxMjk1MzMyNTFfMV8z_hd.mp4?tag=1-1504367911-h-0-bdoxterxqh-26e0522e784037ed
+09-02 23:59:30.148 14683 17016 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5496336e0bdeaa03_3129533251.mp4':
+09-02 23:59:30.472 14683 17035 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:52.417 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:52.434 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/09/BMjAxNzA5MDEwOTAwMTRfNTAyNTc3ODNfMzExNTM2NzA4NF8xXzM=_hd.mp4?tag=1-1504367911-h-0-dxv7kyfxon-c4f62880006a892d
+09-02 23:59:52.611 14683 17056 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4f633efb81fb99af_3115367084.mp4':
+09-02 23:59:52.881 14683 17075 D KSYMediaPlayer: Video: first frame decoded
+09-02 23:59:55.032 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-02 23:59:55.048 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/01/18/BMjAxNzA5MDExODA5MjdfNDE3MzY2NDQxXzMxMTk3OTIyNjdfMV8z_hd.mp4?tag=1-1504367911-h-0-zudwpjo60s-12f95758bbc9f210
+09-02 23:59:55.236 14683 17095 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5d872ede9fc033f5_3119792267.mp4':
+09-02 23:59:55.572 14683 17114 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:00:58.661 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:00:58.678 14683 15227 I System.out: open:http://125.78.242.66/upic/2017/09/01/19/BMjAxNzA5MDExOTUxNTZfMTk4MDEwNTI0XzMxMjA4OTA5MzNfMV8z_hd.mp4?tag=1-1504367926-h-0-6dyzhvl4xk-86ac5442d27f27aa
+09-03 00:00:58.860 14683 17197 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ce9d44c1674f29a0_3120890933.mp4':
+09-03 00:00:59.190 14683 17217 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:02.396 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:02.412 14683 15246 I System.out: open:http://27.155.69.122/upic/2017/09/01/17/BMjAxNzA5MDExNzU4MDBfNTAzNDA3MDI4XzMxMTk2NzczMTVfMV8z_hd.mp4?tag=1-1504367926-h-0-qer6vcdugf-869e1347082b3da1
+09-03 00:01:02.570 14683 17238 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=27363c13a733ca3a_3119677315.mp4':
+09-03 00:01:02.896 14683 17257 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:05.515 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:05.531 14683 15097 I System.out: open:http://27.155.69.122/upic/2017/09/01/10/BMjAxNzA5MDExMDE0NThfNTIzMzA4NzAzXzMxMTU4MTQyNDhfMl8z_hd.mp4?tag=1-1504367926-h-0-8r5sucyjeu-59ea1308b3d706da
+09-03 00:01:05.720 14683 17278 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f603449d18fb34d_3115814248.mp4':
+09-03 00:01:06.098 14683 17297 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:11.685 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:11.706 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/15/BMjAxNzA5MDExNTU1MzNfMTk3ODgyNDc0XzMxMTg1ODM3ODBfMV8z_hd.mp4?tag=1-1504367926-h-0-osz2dj0ouj-3643c27b8b4e35af
+09-03 00:01:11.873 14683 17318 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b9e0d21a67f47999_3118583780.mp4':
+09-03 00:01:12.351 14683 17337 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:16.111 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:16.132 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/12/BMjAxNzA5MDIxMjAxMjdfMzExODI5NjA2XzMxMjYyNTU5ODNfMl8z_hd.mp4?tag=1-1504367926-h-0-40hlbloky2-e1c537812c31564f
+09-03 00:01:16.321 14683 17360 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e240e350cd3df95a_3126255983.mp4':
+09-03 00:01:16.689 14683 17379 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:19.268 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:19.284 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/02/12/BMjAxNzA5MDIxMjI5NTRfNDMwMTcxOTQwXzMxMjY1MjcxNjZfMV8z_hd.mp4?tag=1-1504367926-h-0-q2f6pwgfnc-505fab457a438a54
+09-03 00:01:19.463 14683 17398 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ee4deb210de8a11a_3126527166.mp4':
+09-03 00:01:19.825 14683 17417 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:29.168 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:29.184 14683 15227 I System.out: open:http://125.78.242.66/upic/2017/09/02/08/BMjAxNzA5MDIwODU3MDFfNDAwMTY1NjkxXzMxMjQ3MDkwMzlfMV8z_hd.mp4?tag=1-1504367926-h-0-9dlqsemxyv-c92cfff54a7736db
+09-03 00:01:29.343 14683 17442 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=706ec2a36f5d7919_3124709039.mp4':
+09-03 00:01:29.677 14683 17461 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:31.849 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:31.865 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/15/BMjAxNzA5MDExNTI2MzFfMjMxNDE5MzE4XzMxMTgzNTAxNTRfMV8z_hd.mp4?tag=1-1504367926-h-0-pabe0fxvnz-035d404b7b505834
+09-03 00:01:32.042 14683 17480 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3f7608c82ee72192_3118350154.mp4':
+09-03 00:01:32.390 14683 17499 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:35.906 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:35.923 14683 15097 I System.out: open:http://125.78.242.66/upic/2017/09/01/16/BMjAxNzA5MDExNjIzMTNfNjA3MTEwODY1XzMxMTg4MTAyMjZfMV8z_hd.mp4?tag=1-1504367926-h-0-ubvwgw7gll-bce52c15f8fdbf5d
+09-03 00:01:36.085 14683 17519 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=23eaf59f0e300aca_3118810226.mp4':
+09-03 00:01:36.529 14683 17538 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:38.812 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:38.830 14683 15227 I System.out: open:http://27.155.69.122/upic/2017/09/02/11/BMjAxNzA5MDIxMTE4NTNfMzk5NDU2MTQwXzMxMjU4NTMyMDJfMl8z_hd.mp4?tag=1-1504367926-h-0-dapwr7jhmw-2cd5c0d646c89366
+09-03 00:01:39.014 14683 17557 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3cb393f38ee89fd8_3125853202.mp4':
+09-03 00:01:39.388 14683 17586 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:42.730 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:42.748 14683 15246 I System.out: open:http://125.78.242.66/upic/2017/09/01/09/BMjAxNzA5MDEwOTA4NTFfMzg1NTg5NjI3XzMxMTU0MTM4MzZfMl8z_hd.mp4?tag=1-1504367926-h-0-tou4asfsau-0547a61a5c3836ef
+09-03 00:01:42.922 14683 17618 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c32f44f9e04e82bf_3115413836.mp4':
+09-03 00:01:43.373 14683 17637 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:46.506 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:46.522 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/01/12/BMjAxNzA5MDExMjA1MDNfNTY0NDk5ODk5XzMxMTY2MDg5ODFfMl8z_hd.mp4?tag=1-1504367926-h-0-qql8wdw3w8-110c5e73e3245b5d
+09-03 00:01:46.727 14683 17667 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8bd53bf721a10ba1_3116608981.mp4':
+09-03 00:01:47.106 14683 17686 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:51.365 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:51.384 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/02/15/BMjAxNzA5MDIxNTQxMDZfMTY1Mzg3ODMzXzMxMjgzOTU3ODJfMl8z_hd.mp4?tag=1-1504367926-h-0-yis5ychp8w-298675606af2736b
+09-03 00:01:51.560 14683 17717 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2991b4e2250ccb0d_3128395782.mp4':
+09-03 00:01:51.855 14683 17736 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:01:56.081 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:01:56.098 14683 15246 I System.out: open:http://27.155.69.124/upic/2017/09/01/16/BMjAxNzA5MDExNjE1NTdfNjA3MzEwNDk4XzMxMTg3NTA2MTNfMV8z_hd.mp4?tag=1-1504367926-h-0-sdnyf5mh3r-a28c37a6e4757ac5
+09-03 00:01:56.283 14683 17768 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=83daa68132c69896_3118750613.mp4':
+09-03 00:01:56.649 14683 17787 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:01.284 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:01.308 14683 15097 I System.out: open:http://bdmov.a.yximgs.com/upic/2017/09/02/06/BMjAxNzA5MDIwNjUwMzNfNTQ4MjgwMDIxXzMxMjQxNDg3MDhfMl8z_hd.mp4?tag=1-1504367926-h-0-wdzrrf8m2l-fc3652104ff13f09
+09-03 00:02:01.486 14683 17825 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=79da77a8ccf430ad_3124148708.mp4':
+09-03 00:02:01.781 14683 17845 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:04.806 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:04.824 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/19/BMjAxNzA5MDExOTUzMTNfMTI3OTc4OTNfMzEyMDkxNjM1Nl8xXzM=_hd.mp4?tag=1-1504367926-h-0-jp5dhuycwt-50437d8dcaa5f418
+09-03 00:02:04.990 14683 17865 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e1f399a6b41bc915_3120916356.mp4':
+09-03 00:02:05.326 14683 17884 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:08.104 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:08.123 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/12/BMjAxNzA5MDExMjA3MTFfMTQzMzU2NDc2XzMxMTY2MzMzNjVfMV8z_hd.mp4?tag=1-1504367926-h-0-np64fymgzh-6a810a66d82b78bb
+09-03 00:02:08.397 14683 17906 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=92bc5c4e1329a38_3116633365.mp4':
+09-03 00:02:08.611 14683 17925 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:10.687 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:10.799 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/03/BMjAxNzA5MDEwMzA3NDdfMzA5NDU4NzQ2XzMxMTQ1OTgyMjVfMl8z_hd.mp4?tag=1-1504367926-h-0-wnfkoddb41-767d799a35ba4a90
+09-03 00:02:11.000 14683 17948 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7e04c7a512f13fe3_3114598225.mp4':
+09-03 00:02:11.235 14683 17967 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:14.704 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:14.722 14683 15227 I System.out: open:http://27.155.69.124/upic/2017/09/02/23/BMjAxNzA5MDIyMzUwNTFfMjc5ODA1MDYxXzMxMzM2ODI4MjJfMl8z.mp4?tag=1-1504367926-h-0-k2dqzauaiw-1d4ecec9d8937c43
+09-03 00:02:14.936 14683 18002 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ae35b8948dd52dc0_3133682822.mp4':
+09-03 00:02:15.231 14683 18021 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:18.588 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:18.605 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/23/BMjAxNzA5MDIyMzQzMTdfMjQ1NzM4MDcyXzMxMzM2MzIxNzFfMl8z.mp4?tag=1-1504367926-h-0-bnunogah1c-6e03590ffd9dc04c
+09-03 00:02:18.994 14683 18045 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a91705105b7c2db0_3133632171.mp4':
+09-03 00:02:19.229 14683 18065 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:02:29.073 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:02:29.089 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/01/16/BMjAxNzA5MDExNjA5NTdfMjA2NTM1NjYwXzMxMTg3MDExNzlfMV8z_hd.mp4?tag=1-1504368050-h-0-tlxrfbhydy-145ab830b0713a90
+09-03 00:02:29.240 14683 18086 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c6d06814f34c3437_3118701179.mp4':
+09-03 00:02:29.689 14683 18105 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:00.494 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:00.514 14683 15227 I System.out: open:http://27.155.69.124/upic/2017/09/01/11/BMjAxNzA5MDExMTI4NDhfNDY1NzczMDY3XzMxMTYzNDA5MDNfMV8z_hd.mp4?tag=1-1504368127-h-0-qxdou9cucm-8de52d45b9534ce6
+09-03 00:03:00.697 14683 18147 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2f57922d99f2cbeb_3116340903.mp4':
+09-03 00:03:01.012 14683 18166 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:03.614 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:03.631 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/09/BMjAxNzA5MDIwOTQyMDRfMTU2MTc3MjM3XzMxMjUwMjE0NzJfMV8z_hd.mp4?tag=1-1504368127-h-0-vvf4wjs5ku-206b603c6d8d3e04
+09-03 00:03:03.814 14683 18187 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f77034ead7b7b8b0_3125021472.mp4':
+09-03 00:03:04.176 14683 18206 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:06.039 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:06.054 14683 15097 I System.out: open:http://27.155.69.124/upic/2017/09/02/06/BMjAxNzA5MDIwNjE0NDJfMzc1MTU5NDAxXzMxMjQwNzU0MDJfMV8z_hd.mp4?tag=1-1504368127-h-0-c3otws6gp0-02a0bbff697fdfad
+09-03 00:03:06.227 14683 18226 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=246aeb3ad1fad0b2_3124075402.mp4':
+09-03 00:03:06.534 14683 18246 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:08.640 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:08.657 14683 15227 I System.out: open:http://125.78.242.65/upic/2017/09/01/20/BMjAxNzA5MDEyMDQ5MzdfNDA4MjA2MzQ1XzMxMjE1Nzc1MzNfMV8z_hd.mp4?tag=1-1504368127-h-0-jj6athdhp4-27ee52a23fdae788
+09-03 00:03:08.840 14683 18264 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2837d6684fbba867_3121577533.mp4':
+09-03 00:03:09.186 14683 18283 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:12.133 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:12.150 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/18/BMjAxNzA5MDExODIwNDRfNDQwNDMxNjgyXzMxMTk5MTEwNjdfMl8z_hd.mp4?tag=1-1504368127-h-0-fviuzhoq9q-ec32f8ac008d26d3
+09-03 00:03:12.317 14683 18305 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f7b4d3cdb582b1f_3119911067.mp4':
+09-03 00:03:12.635 14683 18324 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:17.123 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:17.139 14683 15097 I System.out: open:http://27.155.69.124/upic/2017/09/02/06/BMjAxNzA5MDIwNjM5NTlfNDYwNjA0ODU2XzMxMjQxMjM1MTdfMl8z_hd.mp4?tag=1-1504368127-h-0-zveajdrkzi-881c838e553b272b
+09-03 00:03:17.303 14683 18343 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ccfc30b979bbfe7_3124123517.mp4':
+09-03 00:03:17.590 14683 18362 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:20.128 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:20.145 14683 15227 I System.out: open:http://27.155.69.124/upic/2017/09/01/12/BMjAxNzA5MDExMjE2NTdfMTA1NzU1OTg5XzMxMTY3MTEyNDdfMV8z_b.mp4?tag=1-1504368127-h-0-fpgey4o2lo-cc7a4405ef50f877
+09-03 00:03:20.320 14683 18380 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b223e26a2b9dec7e_3116711247.mp4':
+09-03 00:03:20.600 14683 18399 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:24.283 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:24.300 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/15/BMjAxNzA5MDIxNTM1MjFfMzQ5Mzg5NDQxXzMxMjgzMzkzNjFfMl8z_hd.mp4?tag=1-1504368127-h-0-zqdfynalif-101acebc13632616
+09-03 00:03:24.516 14683 18421 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=6c2fd8c8f9e832d2_3128339361.mp4':
+09-03 00:03:24.948 14683 18440 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:26.558 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:26.575 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/06/BMjAxNzA5MDEwNjIwMjdfNjE4NTU3MTU5XzMxMTQ3NzkyNjNfMV8z_hd.mp4?tag=1-1504368127-h-0-njyybqtcwj-291078f76baa18fe
+09-03 00:03:26.756 14683 18461 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c4c150ec16aed97f_3114779263.mp4':
+09-03 00:03:27.069 14683 18480 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:29.874 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:29.891 14683 15246 I System.out: open:http://125.78.242.65/upic/2017/09/02/19/BMjAxNzA5MDIxOTA2MzVfOTIxODIxMTRfMzEzMDYwNzA0NV8yXzM=_hd.mp4?tag=1-1504368127-h-0-3eigosops8-48e3894ccc431fa5
+09-03 00:03:30.074 14683 18498 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3bd2a49198c55161_3130607045.mp4':
+09-03 00:03:30.386 14683 18517 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:51.339 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:51.355 14683 15227 I System.out: open:http://27.155.69.124/upic/2017/09/01/17/BMjAxNzA5MDExNzE0NTRfMTYxOTc2OTQ5XzMxMTkyNjA0MDZfMV8z_hd.mp4?tag=1-1504368127-h-0-jlg586zdo2-ea8532bb7b220dac
+09-03 00:03:51.537 14683 18545 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c9a30fd4a39f0081_3119260406.mp4':
+09-03 00:03:51.850 14683 18564 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:54.566 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:54.583 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/18/BMjAxNzA5MDExODA1MDFfNDY3NDUwMzMxXzMxMTk3NDkyOTVfMV8z_hd.mp4?tag=1-1504368127-h-0-4035dl15nn-1f526daba99e46c4
+09-03 00:03:54.777 14683 18585 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=735c9946fca78837_3119749295.mp4':
+09-03 00:03:55.121 14683 18604 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:56.788 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:56.806 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/02/09/BMjAxNzA5MDIwOTAyNTFfNTM2OTg0NjMwXzMxMjQ3NDYwOTlfMl8z.mp4?tag=1-1504368127-h-0-4wm0xljjvs-73b8fa3214f6cf38
+09-03 00:03:56.972 14683 18623 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f6b913519e36bb99_3124746099.mp4':
+09-03 00:03:57.254 14683 18642 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:03:59.711 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:03:59.728 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/22/BMjAxNzA5MDEyMjA0NDRfOTcyMjE5MDlfMzEyMjQyMDE3NV8yXzM=_hd.mp4?tag=1-1504368127-h-0-1gzwbqdu5u-537eadac32f6e4c7
+09-03 00:03:59.890 14683 18661 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8be803eb24128995_3122420175.mp4':
+09-03 00:04:00.352 14683 18680 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:02.376 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:02.392 14683 15246 I System.out: open:http://27.155.69.124/upic/2017/09/01/13/BMjAxNzA5MDExMzUzMDdfNzgyOTQwNDJfMzExNzU3ODExNV8yXzM=_hd.mp4?tag=1-1504368127-h-0-zd6amhcx6s-7eb134959131641e
+09-03 00:04:02.599 14683 18699 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=58b8ade977cdd30_3117578115.mp4':
+09-03 00:04:02.975 14683 18718 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:06.546 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:06.562 14683 15097 I System.out: open:http://27.155.69.124/upic/2017/09/01/12/BMjAxNzA5MDExMjIxMDlfNzcwMzA3MjlfMzExNjc0NDY0OV8xXzM=_hd.mp4?tag=1-1504368127-h-0-skqo1sbo5d-0cba1fe7e3c90633
+09-03 00:04:06.725 14683 18737 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7b7870612c5b84c5_3116744649.mp4':
+09-03 00:04:07.133 14683 18756 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:17.045 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:17.062 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/02/22/BMjAxNzA5MDIyMjU4NThfODE3NzgwOTBfMzEzMzI4Mjg5OF8yXzM=_hd.mp4?tag=1-1504368127-h-0-99jnwf1phj-ff483457ff109fda
+09-03 00:04:17.225 14683 18782 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5752b45655cc2e74_3133282898.mp4':
+09-03 00:04:17.641 14683 18801 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:19.642 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:19.660 14683 15246 I System.out: open:http://27.155.69.124/upic/2017/09/01/07/BMjAxNzA5MDEwNzE3MDJfMzgzMTYxNzMzXzMxMTQ5MjI0MjJfMV8z_hd.mp4?tag=1-1504368172-h-0-ba77ah7tmf-cf8af05176237914
+09-03 00:04:19.830 14683 18820 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e83d45e44f9d86bd_3114922422.mp4':
+09-03 00:04:20.123 14683 18839 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:23.027 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:23.044 14683 15097 I System.out: open:http://27.155.69.124/upic/2017/09/01/18/BMjAxNzA5MDExODQyMDRfNTY1MjQ5ODA2XzMxMjAxMzc0OTFfMl8z_hd.mp4?tag=1-1504368172-h-0-momf7zzsns-66d0c6ee772dbf31
+09-03 00:04:23.213 14683 18859 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7b0985278cc9dc88_3120137491.mp4':
+09-03 00:04:23.558 14683 18878 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:26.049 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:26.066 14683 15227 I System.out: open:http://27.155.69.124/upic/2017/09/01/14/BMjAxNzA5MDExNDI3MjVfNDcwNjM1OTk1XzMxMTc4NzU5MTdfMl8z_hd.mp4?tag=1-1504368172-h-0-xiizhpv2y4-ad4f2da82851f718
+09-03 00:04:26.232 14683 18898 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b591932b2a2e0e83_3117875917.mp4':
+09-03 00:04:26.546 14683 18917 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:04:28.279 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:04:28.295 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/07/BMjAxNzA5MDIwNzQyNDRfMTQ0MzkxMDU4XzMxMjQzMjI2ODVfMl8z_hd.mp4?tag=1-1504368172-h-0-7opk1b8ler-e1e0e38dd01adda0
+09-03 00:04:28.462 14683 18936 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a7f956a3061b5020_3124322685.mp4':
+09-03 00:04:28.791 14683 18955 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:03.040 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:03.057 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/02/10/BMjAxNzA5MDIxMDA4NDZfNDI0NjgxMDg5XzMxMjUyMzE5NjZfMl8z_hd.mp4?tag=1-1504368245-h-0-mjaiuwe0tc-1f0779a9856f868a
+09-03 00:05:03.258 14683 18985 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=afa4c527a4b80ac8_3125231966.mp4':
+09-03 00:05:03.631 14683 19004 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:05.920 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:05.936 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/15/BMjAxNzA5MDExNTM5MjNfMzkyMzk0MjA4XzMxMTg0NTMyODRfMl8z_hd.mp4?tag=1-1504368245-h-0-bmsdyvjgpe-b153c1b7f8d82653
+09-03 00:05:06.123 14683 19025 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=eacaf87edfa72626_3118453284.mp4':
+09-03 00:05:06.478 14683 19044 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:08.248 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:08.265 14683 15246 I System.out: open:http://125.78.242.65/upic/2017/09/01/13/BMjAxNzA5MDExMzAxMzJfNjI2MDc4OTY1XzMxMTcxMDA3MzdfMl8z.mp4?tag=1-1504368245-h-0-lettcmhqfj-bf68fa90a23391e8
+09-03 00:05:08.429 14683 19062 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=86e9e6be02111075_3117100737.mp4':
+09-03 00:05:08.711 14683 19083 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:28.433 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:28.450 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/15/BMjAxNzA5MDExNTE0MDhfMjQ3NDY1MzI2XzMxMTgyNTI4MjNfMV8z_hd.mp4?tag=1-1504368245-h-0-8fpszpcum5-ddddab0d694b61f6
+09-03 00:05:28.630 14683 19106 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f17ec3f1b53f691b_3118252823.mp4':
+09-03 00:05:28.974 14683 19125 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:30.877 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:30.894 14683 15227 I System.out: open:http://125.78.242.65/upic/2017/09/01/13/BMjAxNzA5MDExMzIwNTJfNzEzMjE4NF8zMTE3Mjc5NzQxXzFfMw==_hd.mp4?tag=1-1504368245-h-0-vcdlt4xqpw-622c3ad66195d5f8
+09-03 00:05:31.075 14683 19145 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f07ca994ae4378b8_3117279741.mp4':
+09-03 00:05:31.376 14683 19164 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:33.115 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:33.131 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/13/BMjAxNzA5MDIxMzI0NThfMjM1NTUxODc3XzMxMjcwNjgyODdfMl8z_hd.mp4?tag=1-1504368245-h-0-0hfwaxeprm-e6c84f7499a09063
+09-03 00:05:33.306 14683 19184 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8d47043dd148cc81_3127068287.mp4':
+09-03 00:05:33.617 14683 19203 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:37.271 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:37.288 14683 15097 I System.out: open:http://27.155.69.124/upic/2017/09/01/20/BMjAxNzA5MDEyMDI5NDBfNDc2NjEyMTE4XzMxMjEzNDE2MjJfMV8z_hd.mp4?tag=1-1504368245-h-0-8piyfzjy2g-03be7d247f519fef
+09-03 00:05:37.460 14683 19223 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=9ff06d0991da0a59_3121341622.mp4':
+09-03 00:05:37.791 14683 19242 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:40.545 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:40.562 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/02/08/BMjAxNzA5MDIwODA3NTZfMTg0OTMyNDRfMzEyNDQzNjY1M18yXzM=_hd.mp4?tag=1-1504368245-h-0-lnfeahcutc-c09d893a2ac155a4
+09-03 00:05:40.833 14683 19261 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=db4546fc277bd06b_3124436653.mp4':
+09-03 00:05:41.077 14683 19280 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:43.649 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:43.665 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/01/21/BMjAxNzA5MDEyMTUzNDdfMzIzMTk1NjQ2XzMxMjIzMDMxOThfMV8z_hd.mp4?tag=1-1504368245-h-0-008c0ahb6f-40d704707dd0fde5
+09-03 00:05:43.840 14683 19300 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=15ec533a02e06042_3122303198.mp4':
+09-03 00:05:44.179 14683 19319 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:05:58.904 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:05:58.922 14683 15097 I System.out: open:http://27.155.69.124/upic/2017/09/02/23/BMjAxNzA5MDIyMzU2MzFfNDg0MjkwNTdfMzEzMzcxODUyMV8yXzM=_b.mp4?tag=1-1504368245-h-0-37i9ky2ook-e62ea93932fc84a2
+09-03 00:05:59.124 14683 19341 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c430cddc094f1283_3133718521.mp4':
+09-03 00:05:59.402 14683 19360 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:01.471 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:01.488 14683 15227 I System.out: open:http://27.152.185.201/upic/2017/09/01/22/BMjAxNzA5MDEyMjI0MDlfMTI5NjUzOTJfMzEyMjYxNTM1NV8yXzM=_hd.mp4?tag=1-1504368245-h-0-l1sfukgtcc-19cb7a65e09a0b52
+09-03 00:06:01.642 14683 19379 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=6365e020f56f8213_3122615355.mp4':
+09-03 00:06:01.941 14683 19398 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:03.774 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:03.791 14683 15246 I System.out: open:http://27.152.185.201/upic/2017/09/02/12/BMjAxNzA5MDIxMjA5MDBfNTEzMTEzMzlfMzEyNjMyODM5NV8xXzM=_hd.mp4?tag=1-1504368245-h-0-1hk1yjwl6v-43eae1aa49fc01a0
+09-03 00:06:03.985 14683 19417 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d9c833af1af330fc_3126328395.mp4':
+09-03 00:06:04.294 14683 19436 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:06.362 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:06.378 14683 15097 I System.out: open:http://27.152.185.201/upic/2017/09/02/23/BMjAxNzA5MDIyMzQ2MTBfMTQ2Njc0NTY3XzMxMzM2NTE1NTdfMl8z_b.mp4?tag=1-1504368245-h-0-aoikbh9huf-bf0ecb888a4bf624
+09-03 00:06:06.690 14683 19456 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a665d21cc13c5fc4_3133651557.mp4':
+09-03 00:06:06.885 14683 19475 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:08.789 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:08.807 14683 15227 I System.out: open:http://27.155.69.124/upic/2017/09/01/12/BMjAxNzA5MDExMjI1MTVfMzc4MzM0ODQ2XzMxMTY3Nzc4OTRfMl8z_hd.mp4?tag=1-1504368245-h-0-sjef73r5bk-1f89882b3accc8c2
+09-03 00:06:08.973 14683 19494 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=9e7ee67ab136fee4_3116777894.mp4':
+09-03 00:06:09.462 14683 19513 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:14.897 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:14.914 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/01/15/BMjAxNzA5MDExNTMxNDJfNDg2ODk0MjQ2XzMxMTgzOTIyNjNfMl8z_hd.mp4?tag=1-1504368245-h-0-kuc5stjrct-b1e28600a5498855
+09-03 00:06:15.091 14683 19561 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8d072e65661ee0e7_3118392263.mp4':
+09-03 00:06:15.379 14683 19580 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:18.941 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:18.960 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/02/13/BMjAxNzA5MDIxMzE4MTNfMTQzMDIxMTRfMzEyNzAwMTg3N18xXzM=_b.mp4?tag=1-1504368245-h-0-ll1indlxbb-bb18d9455fa21013
+09-03 00:06:19.265 14683 19606 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=936cb68b987b4eb7_3127001877.mp4':
+09-03 00:06:19.433 14683 19625 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:22.059 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:22.076 14683 15227 I System.out: open:http://27.155.69.121/upic/2017/09/01/07/BMjAxNzA5MDEwNzIwMzVfNTI1NjUyNTE4XzMxMTQ5MzQzMjFfMl8z.mp4?tag=1-1504368245-h-0-adpomds5tt-593ae70657f7b5c9
+09-03 00:06:22.260 14683 19650 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7d79d96d68e5409a_3114934321.mp4':
+09-03 00:06:22.540 14683 19659 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:26.048 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:26.065 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/02/12/BMjAxNzA5MDIxMjI5MDZfNDUwNzc1NjVfMzEyNjUxOTUyN18yXzM=_hd.mp4?tag=1-1504368245-h-0-t7ikc8gnyq-5e4e52b1063a4ab5
+09-03 00:06:26.342 14683 19687 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2d316f2be2d660e0_3126519527.mp4':
+09-03 00:06:26.585 14683 19706 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:06:29.882 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:06:29.903 14683 15227 I System.out: open:http://125.78.242.67/upic/2017/09/01/17/BMjAxNzA5MDExNzIwMDhfMzI1OTU1NDEyXzMxMTkzMTEzMjNfMV8z_hd.mp4?tag=1-1504368245-h-0-hssn3rzexn-33e0a7c22599cdc5
+09-03 00:06:30.093 14683 19732 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=dc97c88e69a7eb44_3119311323.mp4':
+09-03 00:06:30.439 14683 19751 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:13.240 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:13.257 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/19/BMjAxNzA5MDExOTEzMDBfNzg0MTQwNV8zMTIwNDYxMDk2XzJfMw==_hd.mp4?tag=1-1504368382-h-0-rxl8m0nwty-535ec5ca588cd7ba
+09-03 00:07:13.457 14683 19860 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=9245d24106b9bad_3120461096.mp4':
+09-03 00:07:13.767 14683 19879 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:16.229 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:16.246 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/08/BMjAxNzA5MDEwODE2NDNfMzU4MTE2NjYyXzMxMTUxNTI5ODJfMl8z_hd.mp4?tag=1-1504368382-h-0-pphlpxy70t-036b131c8123923f
+09-03 00:07:16.463 14683 19898 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e4620deea0280071_3115152982.mp4':
+09-03 00:07:16.833 14683 19917 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:18.831 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:18.848 14683 15246 I System.out: open:http://125.78.242.67/upic/2017/09/01/07/BMjAxNzA5MDEwNzM5MjVfNTc1OTg4NzQ1XzMxMTUwMDA3NDZfMl8z_b.mp4?tag=1-1504368382-h-0-w71zgbctua-8301584fb4e128d6
+09-03 00:07:18.992 14683 19935 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f4e7deb80fa5a57f_3115000746.mp4':
+09-03 00:07:19.262 14683 19954 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:22.101 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:22.120 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/19/BMjAxNzA5MDExOTA2MDhfNjQxNDQ4OTc4XzMxMjAzOTkyNzVfMV8z_hd.mp4?tag=1-1504368382-h-0-jeh1vng7ad-df44f2227b1d6c0d
+09-03 00:07:22.284 14683 19974 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f0c5c993c4fdc3d0_3120399275.mp4':
+09-03 00:07:22.586 14683 19993 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:24.896 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:24.918 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/02/07/BMjAxNzA5MDIwNzQ4MDlfNTM3NzA1NzJfMzEyNDM0NTU3NF8xXzM=_hd.mp4?tag=1-1504368382-h-0-voonlvylc8-e730b167a0abbbbe
+09-03 00:07:25.085 14683 20012 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f597fa00c522476a_3124345574.mp4':
+09-03 00:07:25.492 14683 20031 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:28.015 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:28.031 14683 15246 I System.out: open:http://125.78.242.67/upic/2017/09/01/15/BMjAxNzA5MDExNTEyNTlfNzM0ODAxOThfMzExODI0MzgyOF8xXzM=_hd.mp4?tag=1-1504368382-h-0-xxeavjhbhx-3d0e4944d7e62789
+09-03 00:07:28.368 14683 20051 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=dc40cfc71543782c_3118243828.mp4':
+09-03 00:07:28.591 14683 20070 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:30.347 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:30.367 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/01/18/BMjAxNzA5MDExODIzMjhfMTA1MDY4NzY3XzMxMTk5NDA2MzZfMV8z_hd.mp4?tag=1-1504368382-h-0-o4exngiptz-8e9351b19b3b4659
+09-03 00:07:30.545 14683 20089 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=489b8691f2c42c1d_3119940636.mp4':
+09-03 00:07:30.879 14683 20108 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:33.986 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:34.003 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/21/BMjAxNzA5MDEyMTIyNTNfMjAwNzE4NV8zMTIxOTYxMjU5XzFfMw==_hd.mp4?tag=1-1504368382-h-0-ejhlfwcebj-6cdfba017865fa9e
+09-03 00:07:34.174 14683 20127 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=bdb7013e531424b7_3121961259.mp4':
+09-03 00:07:34.499 14683 20146 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:36.315 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:36.332 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/01/15/BMjAxNzA5MDExNTM2MjBfOTc1NjY1MF8zMTE4NDI3NDgxXzFfMw==_hd.mp4?tag=1-1504368382-h-0-skr5mwje1i-c2b50769767ec52b
+09-03 00:07:36.526 14683 20166 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=6bc7e3efc6c88f44_3118427481.mp4':
+09-03 00:07:36.879 14683 20185 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:42.578 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:42.595 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/15/BMjAxNzA5MDExNTE2MjFfNjE0MTYwMjAyXzMxMTgyNjk5OTVfMl8z_hd.mp4?tag=1-1504368382-h-0-rqvjstwn8v-9b2fbaa45f747e5d
+09-03 00:07:42.780 14683 20203 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4dda05b3d72ccf5e_3118269995.mp4':
+09-03 00:07:43.171 14683 20222 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:45.630 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:45.648 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/19/BMjAxNzA5MDExOTMyNDdfNTIwNTM3MTk4XzMxMjA2ODU2NThfMV8z_hd.mp4?tag=1-1504368382-h-0-ekcbt5fhbq-dda12ec32add60c8
+09-03 00:07:45.804 14683 20255 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=39bb10293aa10dee_3120685658.mp4':
+09-03 00:07:46.114 14683 20274 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:49.881 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:49.898 14683 15246 I System.out: open:http://27.155.69.121/upic/2017/09/01/17/BMjAxNzA5MDExNzMzNTNfMTEzMTQ3NThfMzExOTQ0MTAwM18yXzM=_hd.mp4?tag=1-1504368382-h-0-bzzpca4465-3f4ed82894c25b26
+09-03 00:07:50.087 14683 20293 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2ebb4c5a9449908c_3119441003.mp4':
+09-03 00:07:50.445 14683 20312 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:52.071 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:52.090 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/15/BMjAxNzA5MDExNTA2MjJfMjUyMDMzMDYwXzMxMTgxOTA2NzVfMV8z_hd.mp4?tag=1-1504368382-h-0-wm5ui6i88f-aa6c5c6011bd47f2
+09-03 00:07:52.268 14683 20332 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=10b446aa24222ed_3118190675.mp4':
+09-03 00:07:52.648 14683 20351 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:07:57.250 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:07:57.267 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/19/BMjAxNzA5MDExOTM4NDhfMTEyMzg2MzlfMzEyMDc1NDA1MF8xXzM=_hd.mp4?tag=1-1504368382-h-0-myyng7dkxl-845d0824ebd6a85b
+09-03 00:07:57.431 14683 20371 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=18e2d8ffda4f39d1_3120754050.mp4':
+09-03 00:07:57.725 14683 20390 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:06.867 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:06.884 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/01/10/BMjAxNzA5MDExMDAwMjBfMzE5NjY1NTAxXzMxMTU3MTkwNjhfMV8z_hd.mp4?tag=1-1504368382-h-0-mhswcehlv4-8f6a4a32d40c62ea
+09-03 00:08:07.050 14683 20410 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=12a85501e1e84cc7_3115719068.mp4':
+09-03 00:08:07.383 14683 20429 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:15.514 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:15.532 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/02/22/BMjAxNzA5MDIyMjQ2NDlfNDQ4MDA4MTNfMzEzMzE3MjI1Ml8xXzM=_hd.mp4?tag=1-1504368382-h-0-8x88dd2olk-fa639ba14f979b29
+09-03 00:08:15.710 14683 20455 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=618db13d0615154f_3133172252.mp4':
+09-03 00:08:16.032 14683 20475 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:18.251 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:18.268 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/02/22/BMjAxNzA5MDIyMjI5NDBfMTA5MDU3NzhfMzEzMzAwNDY2Ml8yXzM=_hd.mp4?tag=1-1504368382-h-0-fzt1aaxutp-6cb15d240ac15130
+09-03 00:08:18.435 14683 20495 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f56bf075b29b3f5c_3133004662.mp4':
+09-03 00:08:18.791 14683 20514 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:24.285 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:24.302 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/01/16/BMjAxNzA5MDExNjA1MDBfMzY5NzUxMTI5XzMxMTg2NjAxNzNfMV8z_hd.mp4?tag=1-1504368422-h-0-wc3dxalom4-18c920b939ac3f48
+09-03 00:08:24.486 14683 20538 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=61f7f283206f1252_3118660173.mp4':
+09-03 00:08:24.802 14683 20557 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:27.951 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:28.054 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/16/BMjAxNzA5MDExNjM0NDlfOTg5NTEwNjNfMzExODkwNzc2NF8xXzM=_hd.mp4?tag=1-1504368422-h-0-qwpxx3fh1r-41cdca1a7da79fe0
+09-03 00:08:28.272 14683 20578 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2362849dbf2bece2_3118907764.mp4':
+09-03 00:08:28.479 14683 20597 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:30.886 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:30.903 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/02/05/BMjAxNzA5MDIwNTI5MDFfNTA4MzU1MzY0XzMxMjQwMjEzNTJfMl8z_hd.mp4?tag=1-1504368422-h-0-r1garjagu7-546d834e4b9c19f5
+09-03 00:08:31.083 14683 20615 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8ec4d021d2de6922_3124021352.mp4':
+09-03 00:08:31.415 14683 20634 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:33.662 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:33.679 14683 15246 I System.out: open:http://27.155.69.121/upic/2017/09/01/19/BMjAxNzA5MDExOTQ0NDJfMTcwNzQ3OTFfMzEyMDgxOTU5Ml8yXzM=_hd.mp4?tag=1-1504368422-h-0-wqj1ie4esi-a37691fa07a947b2
+09-03 00:08:33.842 14683 20654 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=332c6212caafca63_3120819592.mp4':
+09-03 00:08:34.147 14683 20673 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:35.668 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:35.686 14683 15097 I System.out: open:http://27.155.69.121/upic/2017/09/02/07/BMjAxNzA5MDIwNzQyNTJfNjgyNDcyNzlfMzEyNDMyMzM5M18yXzM=_hd.mp4?tag=1-1504368422-h-0-rtfnvy8jxg-d57bb7a7ee11d599
+09-03 00:08:35.856 14683 20691 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3c7c8d81e669e97f_3124323393.mp4':
+09-03 00:08:36.182 14683 20711 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:42.070 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:42.086 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/15/BMjAxNzA5MDExNTAzMTZfMTUwNzkzMTg2XzMxMTgxNjQwNjRfMV8z_hd.mp4?tag=1-1504368483-h-0-ncirqa7fan-ab14ed746035ba6f
+09-03 00:08:42.274 14683 20739 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ac3823b0f49eae0e_3118164064.mp4':
+09-03 00:08:42.609 14683 20758 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:44.414 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:44.431 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/01/09/BMjAxNzA5MDEwOTA2NDhfNzE2NTcwMTZfMzExNTM5Mjg1Ml8yXzM=_hd.mp4?tag=1-1504368483-h-0-bqr0ibyi1k-4b83820676751e95
+09-03 00:08:44.611 14683 20779 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4e7887e2045e888e_3115392852.mp4':
+09-03 00:08:44.946 14683 20798 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:48.161 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:48.179 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/16/BMjAxNzA5MDExNjMxMzhfMjM1OTYzOTJfMzExODg4MDU5OV8xXzM=_hd.mp4?tag=1-1504368483-h-0-fsssruipqc-535f51541648f238
+09-03 00:08:48.350 14683 20820 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b60dee6a1743c55f_3118880599.mp4':
+09-03 00:08:48.774 14683 20839 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:52.246 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:52.265 14683 15227 I System.out: open:http://125.78.242.67/upic/2017/09/02/10/BMjAxNzA5MDIxMDA0NTNfMTY0NzY3Nzk5XzMxMjUxOTk4NDBfMl8z_hd.mp4?tag=1-1504368483-h-0-yyt1wfnmjp-aa9e9b0d767f26f7
+09-03 00:08:52.466 14683 20860 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b92fce3be6caa483_3125199840.mp4':
+09-03 00:08:52.832 14683 20879 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:54.615 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:54.632 14683 15246 I System.out: open:http://27.155.69.121/upic/2017/09/02/11/BMjAxNzA5MDIxMTE5NTZfNDAwNDkxOTgxXzMxMjU4NTczODhfMV8z_hd.mp4?tag=1-1504368483-h-0-f5apm7crrt-40f2617da8da5204
+09-03 00:08:54.802 14683 20898 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2f2f5371dde2a539_3125857388.mp4':
+09-03 00:08:55.106 14683 20917 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:57.396 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:57.412 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/02/02/BMjAxNzA5MDIwMjE4MzRfNDc0MTY4NTI4XzMxMjM4MzM1MzZfMl8z_hd.mp4?tag=1-1504368483-h-0-qal4louzs8-201d53ecf65658d9
+09-03 00:08:57.574 14683 20939 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=584686509cc49720_3123833536.mp4':
+09-03 00:08:57.900 14683 20958 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:08:59.784 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:08:59.801 14683 15227 I System.out: open:http://27.155.69.121/upic/2017/09/01/08/BMjAxNzA5MDEwODQ3MjZfMzYzNjE5NzcxXzMxMTUyOTk0MjFfMl8z_hd.mp4?tag=1-1504368483-h-0-6gjc1i5xle-303cf8ff699bb613
+09-03 00:08:59.972 14683 20977 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=da9725bf0727feb3_3115299421.mp4':
+09-03 00:09:00.331 14683 20996 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:02.533 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:02.550 14683 15246 I System.out: open:http://27.155.69.121/upic/2017/09/02/07/BMjAxNzA5MDIwNzE2NDVfNjM4ODM4NzAyXzMxMjQyMjU2OTBfMV8z_hd.mp4?tag=1-1504368483-h-0-qngyijqxsr-71656cad7e667694
+09-03 00:09:02.711 14683 21016 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=fdcc3b278c7eb5f_3124225690.mp4':
+09-03 00:09:03.012 14683 21035 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:04.655 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:04.674 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/01/11/BMjAxNzA5MDExMTAwNDRfMjMzNzk0NTk3XzMxMTYxMzE5NTdfMV8z_hd.mp4?tag=1-1504368483-h-0-bac4q8pyqi-1ced123c2024a7d7
+09-03 00:09:04.844 14683 21053 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ac34b1f39532ef55_3116131957.mp4':
+09-03 00:09:05.188 14683 21072 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:07.471 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:07.488 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/02/05/BMjAxNzA5MDIwNTUwMTNfNTQ5MzgyNDE1XzMxMjQwNDI0NjhfMl8z_hd.mp4?tag=1-1504368483-h-0-7osqogsiea-adfdcf692a043c18
+09-03 00:09:07.667 14683 21093 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5baa12dac9530ada_3124042468.mp4':
+09-03 00:09:08.016 14683 21112 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:09.589 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:09.606 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/02/11/BMjAxNzA5MDIxMTM1MzJfMTM1MjU5NDgyXzMxMjYwMDc2NThfMV8z_hd.mp4?tag=1-1504368483-h-0-dn1nfulzaf-f7ad34f93b3ea953
+09-03 00:09:09.849 14683 21130 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=58e01223192b3803_3126007658.mp4':
+09-03 00:09:10.054 14683 21149 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:12.478 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:12.495 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/01/14/BMjAxNzA5MDExNDAyNDBfNDgyMTg4MzAzXzMxMTc2NjQ2NDFfMV8z_hd.mp4?tag=1-1504368483-h-0-43m494dvm3-9a8acff251eef7a8
+09-03 00:09:12.656 14683 21173 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=adedb379c56dd753_3117664641.mp4':
+09-03 00:09:12.956 14683 21192 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:15.368 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:15.384 14683 15227 I System.out: open:http://27.155.69.121/upic/2017/09/01/15/BMjAxNzA5MDExNTU1NTdfMjM5MjQ1MTI0XzMxMTg1ODcxMDFfMl8z_hd.mp4?tag=1-1504368483-h-0-umjke8rk6d-509b38208c1e1336
+09-03 00:09:15.544 14683 21211 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4d07ea3aa4e5868f_3118587101.mp4':
+09-03 00:09:15.861 14683 21230 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:20.051 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:20.068 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/02/09/BMjAxNzA5MDIwOTM0MTFfNDEwMjIxOTc2XzMxMjQ5NjI2OTZfMl8z_hd.mp4?tag=1-1504368483-h-0-yozyl6qhr0-57ccecf0885580ed
+09-03 00:09:20.238 14683 21249 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4f1b1660a0b799f9_3124962696.mp4':
+09-03 00:09:20.556 14683 21268 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:23.402 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:23.419 14683 15097 I System.out: open:http://117.27.241.42/upic/2017/09/01/18/BMjAxNzA5MDExODEwNTJfNDE5Nzc3NDJfMzExOTgwOTMxMF8xXzM=_hd.mp4?tag=1-1504368483-h-0-sps4yxydnh-fd61114e76be2117
+09-03 00:09:23.611 14683 21291 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a0bc58e7ce7e05b0_3119809310.mp4':
+09-03 00:09:23.957 14683 21310 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:26.224 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:26.243 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/17/BMjAxNzA5MDExNzQ3MjhfOTc2NzM3NTNfMzExOTU2OTM1OF8xXzM=_hd.mp4?tag=1-1504368483-h-0-szbviarof8-bb1a0d119808dfc7
+09-03 00:09:26.428 14683 21329 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=6bea3770ecf53b8d_3119569358.mp4':
+09-03 00:09:26.757 14683 21351 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:28.678 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:28.698 14683 15246 I System.out: open:http://125.78.242.67/upic/2017/09/01/16/BMjAxNzA5MDExNjM1MDdfMTc5OTg5ODkwXzMxMTg5MTAyNDBfMV8z_hd.mp4?tag=1-1504368483-h-0-hnmb798bdl-eaa630f11eb32c02
+09-03 00:09:28.882 14683 21369 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=31ddc1a0b52c2e2f_3118910240.mp4':
+09-03 00:09:29.196 14683 21388 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:33.462 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:33.479 14683 15097 I System.out: open:http://27.155.69.121/upic/2017/09/01/20/BMjAxNzA5MDEyMDIzMjVfMjc0NDQwNjk1XzMxMjEyNjQzMDZfMV8z_hd.mp4?tag=1-1504368514-h-0-e6wpvdkjld-82c8ec568e83e88b
+09-03 00:09:33.659 14683 21411 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8475a89b26c23fa8_3121264306.mp4':
+09-03 00:09:34.070 14683 21430 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:37.866 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:37.883 14683 15227 I System.out: open:http://27.155.69.121/upic/2017/09/02/11/BMjAxNzA5MDIxMTAwMDlfNDE2MTU5MjE4XzMxMjU2Nzk3NDdfMl8z_hd.mp4?tag=1-1504368514-h-0-htql6xmn51-06020205b8b0c8b3
+09-03 00:09:38.093 14683 21452 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=352dc08c8672a5bc_3125679747.mp4':
+09-03 00:09:38.443 14683 21472 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:41.910 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:41.927 14683 15246 I System.out: open:http://27.155.69.121/upic/2017/09/02/16/BMjAxNzA5MDIxNjIyMzZfNDA3OTA3NzAxXzMxMjg4MDk1MDBfMl8z_hd.mp4?tag=1-1504368514-h-0-oc8a4co1ee-5521cb665828e449
+09-03 00:09:42.135 14683 21491 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b47d2005e4e5df88_3128809500.mp4':
+09-03 00:09:42.536 14683 21510 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:44.179 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:44.197 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/02/22/BMjAxNzA5MDIyMjUyMDlfMzU2MTk0MzIzXzMxMzMyMjE5MjdfMl8z_b.mp4?tag=1-1504368514-h-0-3zin2b8ctf-52a1eca204d9fa03
+09-03 00:09:44.348 14683 21529 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2125369178f1aff7_3133221927.mp4':
+09-03 00:09:44.630 14683 21548 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:47.868 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:47.887 14683 15227 I System.out: open:http://27.155.69.121/upic/2017/09/02/11/BMjAxNzA5MDIxMTQyMTlfMTQ1MDAwMDk4XzMxMjYwNzQ4MDRfMV8z_hd.mp4?tag=1-1504368514-h-0-4dv0jyepm8-280a0c4dc98b39ea
+09-03 00:09:48.087 14683 21569 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ec6df37a0a5fd90a_3126074804.mp4':
+09-03 00:09:48.415 14683 21588 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:49.929 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:49.946 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/01/17/BMjAxNzA5MDExNzI0NTRfNTM5NzE5MTdfMzExOTM1NTk1N18xXzM=_hd.mp4?tag=1-1504368514-h-0-1kntuddq1q-7980cd5f6e4f3d22
+09-03 00:09:50.114 14683 21606 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7ef2fcbad1569728_3119355957.mp4':
+09-03 00:09:50.409 14683 21625 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:52.987 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:53.003 14683 15097 I System.out: open:http://27.155.69.121/upic/2017/09/01/13/BMjAxNzA5MDExMzM1NTZfNTg2MTAxMTgxXzMxMTc0MjMzNDdfMl8z.mp4?tag=1-1504368514-h-0-lxoens8ibm-c1d9f318cde37cd9
+09-03 00:09:53.183 14683 21645 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=4152d4978f3f0327_3117423347.mp4':
+09-03 00:09:53.459 14683 21664 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:09:55.318 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:09:55.336 14683 15227 I System.out: open:http://125.78.242.67/upic/2017/09/01/21/BMjAxNzA5MDEyMTA5MjRfMzQwMTAwMjQ3XzMxMjE4MDgyMzlfMl8z_hd.mp4?tag=1-1504368514-h-0-tvekptwga7-89e724bfb9912ca3
+09-03 00:09:55.500 14683 21682 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=fc26edc843c17dc7_3121808239.mp4':
+09-03 00:09:55.826 14683 21701 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:00.531 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:00.549 14683 15246 I System.out: open:http://125.78.252.106/upic/2017/09/02/11/BMjAxNzA5MDIxMTAzMzBfNDQ4ODI2NDg1XzMxMjU3MTAzODNfMV8z_hd.mp4?tag=1-1504368514-h-0-s0mnzz6yew-3b3340450c2f60b4
+09-03 00:10:00.737 14683 21721 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=82f236f1d796add9_3125710383.mp4':
+09-03 00:10:01.215 14683 21740 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:02.932 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:02.949 14683 15097 I System.out: open:http://27.155.69.121/upic/2017/09/01/09/BMjAxNzA5MDEwOTUyMjBfNTIwMTU1NzQ2XzMxMTU2Njg2NDhfMl8z_hd.mp4?tag=1-1504368514-h-0-e664sdjakx-551aedf3138807e1
+09-03 00:10:03.118 14683 21759 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=30eb71ebef6bb6c2_3115668648.mp4':
+09-03 00:10:03.442 14683 21778 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:07.291 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:07.308 14683 15227 I System.out: open:http://125.78.252.106/upic/2017/09/01/15/BMjAxNzA5MDExNTQzMjdfMTQ0Nzk5MjRfMzExODQ4NTk1Ml8xXzM=_hd.mp4?tag=1-1504368514-h-0-yyvo4gnzdw-afc2ff399206035f
+09-03 00:10:07.503 14683 21797 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=bd7c2eb7a0c6bc60_3118485952.mp4':
+09-03 00:10:07.814 14683 21817 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:10.782 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:10.799 14683 15246 I System.out: open:http://125.78.242.67/upic/2017/09/01/11/BMjAxNzA5MDExMTA0MThfNzc2MTIyMzlfMzExNjE1ODI0NV8xXzM=_hd.mp4?tag=1-1504368514-h-0-nhcmghwt8e-b0ead58908a66f4a
+09-03 00:10:10.956 14683 21835 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=dad4f7cf4cb54101_3116158245.mp4':
+09-03 00:10:11.237 14683 21854 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:23.797 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:23.813 14683 15097 I System.out: open:http://125.78.252.106/upic/2017/09/02/09/BMjAxNzA5MDIwOTA0MTJfOTEzMzMzNTRfMzEyNDc1NDc3OF8xXzM=_hd.mp4?tag=1-1504368514-h-0-zoo4venoay-f1caeabe6ea81c5f
+09-03 00:10:23.982 14683 21876 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b561d53ee2918a3_3124754778.mp4':
+09-03 00:10:24.287 14683 21895 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:26.703 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:26.719 14683 15227 I System.out: open:http://125.78.242.67/upic/2017/09/01/15/BMjAxNzA5MDExNTM2MTBfMzU3MjgxMTQ5XzMxMTg0Mjc3MjVfMl8z_hd.mp4?tag=1-1504368514-h-0-rjtr4mobfl-185763591a4301ff
+09-03 00:10:26.906 14683 21915 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5f01cbe32dbdc519_3118427725.mp4':
+09-03 00:10:27.226 14683 21935 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:29.804 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:29.820 14683 15246 I System.out: open:http://125.78.242.67/upic/2017/09/01/13/BMjAxNzA5MDExMzQ2MDVfMTA2NzA4NDAxXzMxMTc1MTU3MzRfMV8z_hd.mp4?tag=1-1504368514-h-0-7op5wevyo1-c6e9a584ab083b5d
+09-03 00:10:30.003 14683 21953 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=28fc42a48ca676ff_3117515734.mp4':
+09-03 00:10:30.331 14683 21972 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:32.157 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:32.175 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/02/01/BMjAxNzA5MDIwMTM5MzdfNDc2NjQxNjY4XzMxMjM3NTYxMjRfMV8z_hd.mp4?tag=1-1504368514-h-0-6y8bmr9a2e-2c4cafb4fbf5573a
+09-03 00:10:32.348 14683 21991 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ac02da4de2d5b3e8_3123756124.mp4':
+09-03 00:10:32.675 14683 22010 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:38.284 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:38.300 14683 15227 I System.out: open:http://117.27.241.42/upic/2017/09/01/12/BMjAxNzA5MDExMjE0MzBfMjEyOTMzNDM2XzMxMTY2ODUwMTBfMV8z_hd.mp4?tag=1-1504368566-h-0-y7iwtnclup-951cc442f8ba0f15
+09-03 00:10:38.508 14683 22032 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=baa320cd3af6171d_3116685010.mp4':
+09-03 00:10:38.835 14683 22051 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:40.489 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:40.506 14683 15246 I System.out: open:http://117.27.241.42/upic/2017/09/01/12/BMjAxNzA5MDExMjA4NTFfNTE2NjM3MjFfMzExNjY0NzYwOV8xXzM=.mp4?tag=1-1504368566-h-0-imnx5728be-3cc29418881658db
+09-03 00:10:40.676 14683 22086 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=51abeb31ce68f101_3116647609.mp4':
+09-03 00:10:40.963 14683 22105 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:42.651 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:42.672 14683 15097 I System.out: open:http://125.78.242.67/upic/2017/09/01/15/BMjAxNzA5MDExNTMzMDlfMTc4OTM2MjY1XzMxMTg0MDM4MzJfMl8z_hd.mp4?tag=1-1504368566-h-0-08axahf28c-3ad29794576b6760
+09-03 00:10:42.871 14683 22132 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3025a18a33b94785_3118403832.mp4':
+09-03 00:10:43.170 14683 22152 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:47.722 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:47.740 14683 15246 I System.out: open:http://121.205.6.227/upic/2017/09/01/17/BMjAxNzA5MDExNzA5MDNfNTg0ODE4Mzc4XzMxMTkyMDk0MTRfMl8z_hd.mp4?tag=1-1504368566-h-0-mv3zpro69g-4955f7035433cc6e
+09-03 00:10:47.927 14683 22188 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=bba738832339baf4_3119209414.mp4':
+09-03 00:10:48.252 14683 22207 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:51.029 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:51.047 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/02/07/BMjAxNzA5MDIwNzQ5MjZfNjE1NTQ5MzE1XzMxMjQzNTE1MzNfMl8z_hd.mp4?tag=1-1504368566-h-0-1jbvpiyv9j-87f5e04bcddf7624
+09-03 00:10:51.230 14683 22242 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3010c512d800cfb3_3124351533.mp4':
+09-03 00:10:51.533 14683 22261 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:53.119 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:53.140 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/01/12/BMjAxNzA5MDExMjM5MzFfMTgxOTYwMDM3XzMxMTY4OTk1NTBfMl8z_hd.mp4?tag=1-1504368566-h-0-flknjvhiwm-191aab9224d96abf
+09-03 00:10:53.440 14683 22286 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d357c45c6ca07b4a_3116899550.mp4':
+09-03 00:10:53.780 14683 22309 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:10:57.270 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:10:57.288 14683 15246 I System.out: open:http://27.148.185.106/upic/2017/09/01/13/BMjAxNzA5MDExMzM1MjFfMTEzMjI1MzE4XzMxMTc0MDY5NTJfMl8z_hd.mp4?tag=1-1504368566-h-0-nl7rjkpax2-1dc128dd49451127
+09-03 00:10:57.469 14683 22334 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=8b522e204201420_3117406952.mp4':
+09-03 00:10:57.783 14683 22353 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:00.023 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:00.040 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/02/11/BMjAxNzA5MDIxMTE5NTRfNDE1MDc0NjA4XzMxMjU4NjI5MzhfMl8z_b.mp4?tag=1-1504368566-h-0-5oats38yzo-2fce62e73ea78fbe
+09-03 00:11:00.188 14683 22382 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=7c2d57d13a0415b1_3125862938.mp4':
+09-03 00:11:00.443 14683 22401 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:03.671 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:03.687 14683 15227 I System.out: open:http://121.205.6.227/upic/2017/09/01/07/BMjAxNzA5MDEwNzEwMjNfNDM3NTY3NDQ0XzMxMTQ5MDE0MTVfMV8z_hd.mp4?tag=1-1504368566-h-0-kugv64kp4b-8bea09b08f2b6a1e
+09-03 00:11:03.870 14683 22429 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ec2c41c2fd55234a_3114901415.mp4':
+09-03 00:11:04.197 14683 22448 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:05.786 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:05.802 14683 15246 I System.out: open:http://125.78.242.65/upic/2017/09/01/14/BMjAxNzA5MDExNDA5MjJfMTk2NDg0MjFfMzExNzcyMzEzN18xXzM=_hd.mp4?tag=1-1504368566-h-0-tly4qyrzxl-5af5a65fa142aeeb
+09-03 00:11:05.960 14683 22466 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=91a52ba2459cfdd1_3117723137.mp4':
+09-03 00:11:06.270 14683 22486 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:08.520 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:08.538 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/08/BMjAxNzA5MDEwODQ0MjlfMjY2MTAyMDA3XzMxMTUyODQ2NDBfMl8z_hd.mp4?tag=1-1504368566-h-0-7rjyybfu8s-96d3e93de892041e
+09-03 00:11:08.707 14683 22508 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ae387859127ddc61_3115284640.mp4':
+09-03 00:11:09.031 14683 22527 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:11.914 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:11.932 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/02/08/BMjAxNzA5MDIwODI5NTVfNTc0NzEzMjEzXzMxMjQ1NDkyNzFfMl8z_hd.mp4?tag=1-1504368566-h-0-zflmzyyhmc-15cfa32c8ecb3246
+09-03 00:11:12.124 14683 22551 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=cda7958aad942bde_3124549271.mp4':
+09-03 00:11:12.561 14683 22570 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:15.029 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:15.047 14683 15246 I System.out: open:http://27.148.185.106/upic/2017/09/01/18/BMjAxNzA5MDExODA1MjJfODA0MzcyNzNfMzExOTc1Mjk1NF8xXzM=_hd.mp4?tag=1-1504368566-h-0-qd047nf1gj-c2291d9624d9e67a
+09-03 00:11:15.221 14683 22602 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ecb4515cd1ca1bd3_3119752954.mp4':
+09-03 00:11:15.668 14683 22621 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:17.755 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:17.772 14683 15097 I System.out: open:http://27.155.73.121/upic/2017/09/01/15/BMjAxNzA5MDExNTE5MTZfNTM5MTQ3NzcxXzMxMTgyOTM0MTJfMl8z_hd.mp4?tag=1-1504368566-h-0-772pbtsli4-8ef99e2d221f6dbc
+09-03 00:11:17.986 14683 22646 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=9b1334544305aedf_3118293412.mp4':
+09-03 00:11:18.369 14683 22666 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:21.980 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:22.001 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/01/19/BMjAxNzA5MDExOTEzNDZfMTM2OTI2MzIzXzMxMjA0ODAxNTdfMV8z_hd.mp4?tag=1-1504368566-h-0-1ustzsx4iv-517ca61fc7d445b8
+09-03 00:11:22.220 14683 22686 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e45e0a8f717ee0b_3120480157.mp4':
+09-03 00:11:22.708 14683 22703 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:24.446 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:24.469 14683 15246 I System.out: open:http://125.78.242.65/upic/2017/09/01/13/BMjAxNzA5MDExMzAxNThfMTU2NjcwNTM3XzMxMTcxMDQ4MzBfMV8z_hd.mp4?tag=1-1504368566-h-0-z0nvgugm65-b5c541db71fe94c8
+09-03 00:11:24.668 14683 22719 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=521170801cb1d43b_3117104830.mp4':
+09-03 00:11:25.149 14683 22738 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:26.899 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:26.917 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/18/BMjAxNzA5MDExODEwMThfMjMwNzEzNDM4XzMxMTk4MDM0MzlfMV8z_hd.mp4?tag=1-1504368566-h-0-lu7jteobv3-76d11b62749b40e0
+09-03 00:11:27.077 14683 22754 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=fa3ed61e6c90919a_3119803439.mp4':
+09-03 00:11:27.384 14683 22771 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:30.251 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:30.268 14683 15227 I System.out: open:http://121.205.6.227/upic/2017/09/01/16/BMjAxNzA5MDExNjQ3MDVfMTcxMjA4ODc2XzMxMTkwMTIzMTlfMV8z_hd.mp4?tag=1-1504368566-h-0-jtknphgp9k-8a9ed8c565a68076
+09-03 00:11:30.432 14683 22787 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=ebbbe7c9e30a041a_3119012319.mp4':
+09-03 00:11:30.765 14683 22804 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:32.818 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:32.835 14683 15246 I System.out: open:http://125.78.242.65/upic/2017/09/02/22/BMjAxNzA5MDIyMjQ4MDNfNjUyMzA1MzJfMzEzMzE4NDMzMV8yXzM=_b.mp4?tag=1-1504368566-h-0-1gjw3kfrgk-da3a19be58ec02c5
+09-03 00:11:33.001 14683 22822 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c01995c4170a7252_3133184331.mp4':
+09-03 00:11:33.258 14683 22841 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:35.390 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:35.412 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/03/00/BMjAxNzA5MDMwMDAzNTRfMTgyNTE0MTg1XzMxMzM3NjUwODFfMV8z_b.mp4?tag=1-1504368566-h-0-za1qk9nakq-55a5a7146ae6370f
+09-03 00:11:35.702 14683 22861 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b4e7417cb75b499b_3133765081.mp4':
+09-03 00:11:35.871 14683 22880 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:39.154 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:39.171 14683 15227 I System.out: open:http://121.205.6.227/upic/2017/09/02/23/BMjAxNzA5MDIyMzUzNTZfMjY2NTU4MTY3XzMxMzM3MDIyMDBfMV8z_b.mp4?tag=1-1504368566-h-0-9l3tclg5c2-77099163699933ac
+09-03 00:11:39.365 14683 22901 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f5bf215c1ee65d60_3133702200.mp4':
+09-03 00:11:39.672 14683 22920 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:43.083 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:43.099 14683 15246 I System.out: open:http://125.78.242.65/upic/2017/09/01/17/BMjAxNzA5MDExNzU5NDFfNDA3MTcwN18zMTE5Njk0MjQzXzFfMw==_hd.mp4?tag=1-1504368630-h-0-ruyx93pw07-a13fb7249001d4e2
+09-03 00:11:43.290 14683 22940 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3188610cbf7f5de8_3119694243.mp4':
+09-03 00:11:43.668 14683 22959 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:45.352 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:45.370 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/01/08/BMjAxNzA5MDEwODM4MDRfNDExOTM5NjcxXzMxMTUyNTA5OThfMV8z_hd.mp4?tag=1-1504368630-h-0-fom8poz1bw-aab9589323b7f9a0
+09-03 00:11:45.548 14683 22977 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=deebc2e2b0a5bb59_3115250998.mp4':
+09-03 00:11:45.850 14683 22996 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:49.026 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:49.046 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/01/19/BMjAxNzA5MDExOTA0MjFfNTEwOTU1NTgyXzMxMjAzODA0NzVfMV8z_hd.mp4?tag=1-1504368630-h-0-y0tnypoj3s-2cc2ca3983dc6479
+09-03 00:11:49.215 14683 23016 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5ffb5ea4024c7991_3120380475.mp4':
+09-03 00:11:49.519 14683 23035 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:11:51.578 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:11:51.595 14683 15246 I System.out: open:http://121.205.6.227/upic/2017/09/01/15/BMjAxNzA5MDExNTE0MTJfMTMwMjM2MzI1XzMxMTgyNTMxOTRfMV8z_hd.mp4?tag=1-1504368630-h-0-knodrnflm0-17567fec79214116
+09-03 00:11:51.759 14683 23053 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3ec3fb0b7e557c8_3118253194.mp4':
+09-03 00:11:52.082 14683 23072 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:15:28.641 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:15:28.659 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/17/BMjAxNzA5MDExNzM0NTZfMTQwNTU1ODNfMzExOTQ1MTMyM18xXzM=_hd.mp4?tag=1-1504368688-h-0-uq1ochdgwx-bebf066d408a0e2e
+09-03 00:15:28.927 14683 23226 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d236ccd500c97ce0_3119451323.mp4':
+09-03 00:15:29.116 14683 23246 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:15:31.205 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:15:31.221 14683 15227 I System.out: open:http://125.78.242.65/upic/2017/09/01/11/BMjAxNzA5MDExMTMyMzBfMTE3OTY1MDlfMzExNjM2OTM0Ml8xXzM=.mp4?tag=1-1504368688-h-0-cx2ojh6vzb-b830faf9be7075d8
+09-03 00:15:31.364 14683 23273 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=3291c2c7bc0e2f8_3116369342.mp4':
+09-03 00:15:31.635 14683 23292 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:15:52.783 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:15:52.800 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/01/08/BMjAxNzA5MDEwODAwMzBfMzE4MjQ2OTdfMzExNTA4Mzc4Ml8xXzM=_hd.mp4?tag=1-1504368688-h-0-miastt2at1-1cf7c0764de508b9
+09-03 00:15:53.006 14683 23350 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f0041ee2e3a9255d_3115083782.mp4':
+09-03 00:15:53.379 14683 23369 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:15:56.880 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:15:56.897 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/01/16/BMjAxNzA5MDExNjUyMjNfNTkyNDk2NTM5XzMxMTkwNTk3OTZfMl8z_hd.mp4?tag=1-1504368688-h-0-dxyeqnczpj-07298888bc4d8fcd
+09-03 00:15:57.083 14683 23390 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e9ed11298656cb93_3119059796.mp4':
+09-03 00:15:57.279 14683 23409 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:15:59.905 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:15:59.922 14683 15246 I System.out: open:http://27.148.185.106/upic/2017/09/02/11/BMjAxNzA5MDIxMTEyMTNfMTgwNDczNjJfMzEyNTc4OTI1NV8xXzM=_hd.mp4?tag=1-1504368688-h-0-q8mo1vdiqt-150fc0631281fd77
+09-03 00:16:00.128 14683 23429 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=c2a7fe7ac1272200_3125789255.mp4':
+09-03 00:16:00.488 14683 23448 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:02.688 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:02.705 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/01/17/BMjAxNzA5MDExNzI1NTdfMjY0NzY0Ml8zMTE5MzY2MTYwXzFfMw==_hd.mp4?tag=1-1504368688-h-0-plngtr3vkf-418efc6c86a21cc6
+09-03 00:16:02.883 14683 23467 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2bbd4a9a92010439_3119366160.mp4':
+09-03 00:16:03.218 14683 23486 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:04.744 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:04.761 14683 15227 I System.out: open:http://125.78.242.65/upic/2017/09/01/15/BMjAxNzA5MDExNTA0MTVfMTYzNTQ1NzcyXzMxMTgxNzMxMjNfMV8z_hd.mp4?tag=1-1504368688-h-0-sblqm4g9rv-a990c5b84c32c773
+09-03 00:16:04.946 14683 23504 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=31db0b41c04c1932_3118173123.mp4':
+09-03 00:16:05.302 14683 23524 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:07.681 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:07.700 14683 15246 I System.out: open:http://121.205.6.223/upic/2017/09/02/12/BMjAxNzA5MDIxMjAxNDNfMzM3MTEyOTJfMzEyNjI1OTQ0N18xXzM=_hd.mp4?tag=1-1504368688-h-0-rkmlviwuhi-e4eb8fd455ef2bf1
+09-03 00:16:07.880 14683 23545 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=48da018e8a83981c_3126259447.mp4':
+09-03 00:16:08.217 14683 23564 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:14.767 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:14.784 14683 15097 I System.out: open:http://27.148.185.106/upic/2017/09/01/13/BMjAxNzA5MDExMzEzNTNfNDIyMjIzMDQ5XzMxMTcyMTYwODFfMl8z_hd.mp4?tag=1-1504368688-h-0-0tpx0rnl0d-19aa9dd0d944edce
+09-03 00:16:14.965 14683 23583 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=5d45eeafad3f40ac_3117216081.mp4':
+09-03 00:16:15.283 14683 23602 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:17.660 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:17.677 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/01/22/BMjAxNzA5MDEyMjQ5MzVfMzQ0ODMxMDk4XzMxMjI4NTI3ODRfMl8z_hd.mp4?tag=1-1504368688-h-0-ngiczzmvfv-a6216571024fde82
+09-03 00:16:17.940 14683 23622 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d26abb43d99abbf2_3122852784.mp4':
+09-03 00:16:18.274 14683 23641 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:19.867 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:19.884 14683 15246 I System.out: open:http://27.148.185.106/upic/2017/09/01/16/BMjAxNzA5MDExNjI1MjdfMTQ0OTI5NjU4XzMxMTg4Mjc5NTJfMV8z_hd.mp4?tag=1-1504368688-h-0-rnmhxmqtyh-9a7805b206fe31c6
+09-03 00:16:20.051 14683 23659 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f2b7ddc65540b4e5_3118827952.mp4':
+09-03 00:16:20.383 14683 23678 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:23.437 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:23.454 14683 15097 I System.out: open:http://121.205.6.223/upic/2017/09/02/07/BMjAxNzA5MDIwNzE5MTRfMjQ0NzgzNDlfMzEyNDIzNDA4OV8xXzM=_hd.mp4?tag=1-1504368688-h-0-drytppgbnj-c33451142d78780e
+09-03 00:16:23.625 14683 23699 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=399230590a8589e0_3124234089.mp4':
+09-03 00:16:23.952 14683 23718 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:25.700 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:25.717 14683 15227 I System.out: open:http://106.122.250.193/upic/2017/09/02/19/BMjAxNzA5MDIxOTM3MjhfMzIwNTk5NjE1XzMxMzA5NjU2MTJfMl8z.mp4?tag=1-1504368688-h-0-g1qdbaypan-580d3d00ae84edbc
+09-03 00:16:25.953 14683 23738 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=10d7f57cdfce4c2d_3130965612.mp4':
+09-03 00:16:26.153 14683 23758 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:30.520 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:30.538 14683 15246 I System.out: open:http://121.205.6.223/upic/2017/09/01/03/BMjAxNzA5MDEwMzE0MzlfMTQ4NjUxMjJfMzExNDYwNTYxNV8xXzM=_hd.mp4?tag=1-1504368688-h-0-eay6kmxxjv-3c3ed8ed369f0041
+09-03 00:16:30.690 14683 23778 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=1f8dc0caaaca2fbd_3114605615.mp4':
+09-03 00:16:30.983 14683 23798 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:33.753 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:33.773 14683 15097 I System.out: open:http://121.205.6.223/upic/2017/09/02/18/BMjAxNzA5MDIxODA5MDlfNTM5Mjg3OTU5XzMxMjk5NDk4MDNfMl8z_b.mp4?tag=1-1504368688-h-0-kkbvzyx064-a00e55f80bc3810d
+09-03 00:16:33.937 14683 23818 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=e4299fd326cbce39_3129949803.mp4':
+09-03 00:16:34.198 14683 23837 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:36.170 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:36.187 14683 15227 I System.out: open:http://106.122.250.193/upic/2017/09/01/19/BMjAxNzA5MDExOTExMTdfNDgxNTcyOTgwXzMxMjA0NTQzMDlfMV8z_hd.mp4?tag=1-1504368688-h-0-pjqdm9231r-c5b9e7e017c42383
+09-03 00:16:36.361 14683 23856 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=fac435e293745ead_3120454309.mp4':
+09-03 00:16:36.658 14683 23875 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:42.341 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:42.358 14683 15246 I System.out: open:http://121.205.6.223/upic/2017/09/01/14/BMjAxNzA5MDExNDU3NDZfMTg4NTc4MDQyXzMxMTgxMjE2MjFfMl8z_hd.mp4?tag=1-1504368688-h-0-brs0nrm58f-fdf5079bd7155f1e
+09-03 00:16:42.525 14683 23898 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=f82c3f36a24d00f6_3118121621.mp4':
+09-03 00:16:42.954 14683 23917 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:44.674 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:44.692 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/18/BMjAxNzA5MDExODE5NDdfMjAyNjgzNjQyXzMxMTk5MDA4NDVfMV8z_hd.mp4?tag=1-1504368688-h-0-24xa6w0cdw-0ddc744ca6dc51fa
+09-03 00:16:44.867 14683 23936 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=846a44069fe731bc_3119900845.mp4':
+09-03 00:16:45.177 14683 23955 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:47.188 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:47.205 14683 15227 I System.out: open:http://121.205.6.223/upic/2017/09/02/05/BMjAxNzA5MDIwNTM0MzdfMTg2MDg0ODQxXzMxMjQwMjY0MjJfMl8z_hd.mp4?tag=1-1504368688-h-0-d436mixe7k-67e28562b8ee210a
+09-03 00:16:47.418 14683 23974 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=2122c38cbe46909c_3124026422.mp4':
+09-03 00:16:47.774 14683 23993 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:49.805 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:49.822 14683 15246 I System.out: open:http://27.148.185.106/upic/2017/09/03/00/BMjAxNzA5MDMwMDA2MzRfMTIzNjg3MjAyXzMxMzM3ODA3ODBfMl8z.mp4?tag=1-1504368688-h-0-v6ug1iyhhg-b4c50f30a2821101
+09-03 00:16:50.174 14683 24011 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d1889ed6c62fa0aa_3133780780.mp4':
+09-03 00:16:50.423 14683 24031 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:55.253 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:55.274 14683 15097 I System.out: open:http://106.122.250.193/upic/2017/09/02/22/BMjAxNzA5MDIyMjU5MjZfNDEwMTY0MDYxXzMxMzMyODY5MDlfMl8z_b.mp4?tag=1-1504368688-h-0-vtwk18gqdn-225d171b76b56466
+09-03 00:16:55.424 14683 24054 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=d41fbd519dd20452_3133286909.mp4':
+09-03 00:16:55.795 14683 24073 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:16:57.682 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:16:57.701 14683 15227 I System.out: open:http://125.78.242.65/upic/2017/09/01/14/BMjAxNzA5MDExNDU1MzJfNTc5OTc5MTJfMzExODEwMzkzOV8xXzM=_hd.mp4?tag=1-1504368921-h-0-gtnn1irggq-553df4d73d190590
+09-03 00:16:57.871 14683 24094 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a684dc03d2d845fe_3118103939.mp4':
+09-03 00:16:58.223 14683 24113 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:17:00.463 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:17:00.480 14683 15246 I System.out: open:http://121.205.6.223/upic/2017/09/02/11/BMjAxNzA5MDIxMTUxMTBfNjExMzM4NDM3XzMxMjYxNTcxMDNfMV8z_hd.mp4?tag=1-1504368921-h-0-desrphnokw-48e05776388afbb1
+09-03 00:17:00.637 14683 24133 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=dabc03549fe6bc88_3126157103.mp4':
+09-03 00:17:01.104 14683 24152 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:17:03.597 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:17:03.613 14683 15097 I System.out: open:http://125.78.242.65/upic/2017/09/01/06/BMjAxNzA5MDEwNjI1MDVfNzM3MjkzNl8zMTE0Nzg3NzI3XzFfMw==_hd.mp4?tag=1-1504368921-h-0-opk3xi5fei-fb3dcb7928c648f5
+09-03 00:17:03.792 14683 24175 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=b4165f6444c82b8e_3114787727.mp4':
+09-03 00:17:04.164 14683 24194 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:17:06.617 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:17:06.634 14683 15227 I System.out: open:http://27.148.185.106/upic/2017/09/02/18/BMjAxNzA5MDIxODM2NDZfNTA0MDY2OTcyXzMxMzAyNjI4NzlfMV8z_hd.mp4?tag=1-1504368921-h-0-koziz8hizy-c851dc4a3476e4e6
+09-03 00:17:06.792 14683 24213 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=a7b528c310453cca_3130262879.mp4':
+09-03 00:17:07.088 14683 24232 D KSYMediaPlayer: Video: first frame decoded
+09-03 00:17:08.874 14683 14683 V SettingsInterface:  from settings cache , name = sound_effects_enabled , value = 0
+09-03 00:17:08.891 14683 15246 I System.out: open:http://121.205.6.223/upic/2017/09/02/09/BMjAxNzA5MDIwOTExNTNfMjM1NTM3MzI4XzMxMjQ4MDQ2NDlfMV8z_hd.mp4?tag=1-1504368921-h-0-4hwwpevfxw-0b4cc670a6f8a4c1
+09-03 00:17:09.079 14683 24251 I KSYMediaPlayer: Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'http://127.0.0.1:53809/proxy?request_id=92149d02f39daf48_3124804649.mp4':
+09-03 00:17:09.443 14683 24270 D KSYMediaPlayer: Video: first frame decoded
+
